@@ -1,3 +1,3 @@
 # ⏲️ Work In Progress
 # 📌 Tambah dan Delete sudah tersedia
-# ✅ Responsive
+# ✅ Responsive untuk Mobile
